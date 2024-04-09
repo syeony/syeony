@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=_custom_gradient&fontColor=000000&text=syeony)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=fdeaf0&fontColor=000000&text=syeony)
 
 <!--
 **syeony/syeony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
