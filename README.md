@@ -13,7 +13,7 @@
 </div>
 
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">:hammer: Tech Stack :wrench:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=#A8B9CC" /> &nbsp
   <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" /> &nbsp
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Flutter-3880FF?style=for-the-badge&logo=Flutter&logoColor=white" />
 </div>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">Contact :speech_balloon:</h3>
 <div align="center">
   <a href="[https://velog.io/@fltk1004]">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
