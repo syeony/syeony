@@ -24,7 +24,28 @@
 
 <h3 align="center"> 🏆 Award 🏆 </h3>
 <div align="center">
-  🥇 2023 6월 SW 중심대학 DevDay 경진대회 대상 [github](https://github.com/SmartKalendar)
+  
+  🥇 2023 6월 SW 중심대학 DevDay 경진대회 대상  [![GitHub](https://img.shields.io/badge/SmartKalendar-orange?logo=github)](https://github.com/SmartKalendar)
+</div>
+
+<h3 align="center"> 💻 Project 💻 </h3>
+<div align="center">
+  
+  :pencil2: 2022 8월 clae-project : 블록체인 기반 수강권 거래 플랫폼
+  [![GitHub](https://img.shields.io/badge/ClaeProject-magenta?logo=github)](https://github.com/syeony/clae-project)
+
+  :pencil2: 2023 6월 Disorder-Rose : 장애인을 위한 과자봉지 식별 어플리케이션
+  [![GitHub](https://img.shields.io/badge/DisorderRose-blue?logo=github)](https://github.com/orgs/Disorder-ROSE)
+
+  :pencil2: 2023년 9월 모먹을까? : 맞벌이 자녀를 위한 AI 기반 음식 레시피 추천 서비스 - gdsc 해커톤 참가
+  [![GitHub](https://img.shields.io/badge/Hackathon-pink?logo=github)](https://github.com/2023-Busan-Hackathon)
+
+  :pencil2: 2024 2월 WeatherRecommendApp : 기온별 옷차림 추천 어플리케이션
+  [![GitHub](https://img.shields.io/badge/Hackathon-skyblue?logo=github)](https://github.com/SUSC-KR/SwiftUI-WeatherRecommendApp)
+
+  :pencil2: 2024 6월 Carbon-Free : 디지털 탄소배출량 측정/예측/개선 웹서비스
+  [![GitHub](https://img.shields.io/badge/CarbonFree-green?logo=github)](https://github.com/Carbon6-Free)
+
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
@@ -51,18 +72,3 @@ https://simpleicons.org/?q=flutter
 -->
 
 
-
-<!--
-**syeony/syeony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
