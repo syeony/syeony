@@ -22,6 +22,11 @@
   <img src="https://img.shields.io/badge/Flutter-20232a.svg?style=for-the-badge&logo=Flutter&logoColor=#02569B" />
 </div>
 
+<h3 align="center"> 🏆 Award 🏆 </h3>
+<div align="center">
+  🥇 2023 6월 SW 중심대학 DevDay 경진대회 대상 [github](github.com/syeony/SK)
+</div>
+
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
@@ -32,7 +37,7 @@
 <h3 align="center">Contact :speech_balloon:</h3>
 <div align="center">
   <a href="[https://velog.io/@fltk1004]">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp 
   </a>
   <a href="mailto:fltkfltk1004@naver.com">
     <img
