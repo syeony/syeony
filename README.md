@@ -24,7 +24,7 @@
 
 <h3 align="center"> 🏆 Award 🏆 </h3>
 <div align="center">
-  🥇 2023 6월 SW 중심대학 DevDay 경진대회 대상 [github](github.com/syeony/SK)
+  🥇 2023 6월 SW 중심대학 DevDay 경진대회 대상 [github](https://github.com/SmartKalendar)
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
