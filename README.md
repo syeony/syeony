@@ -58,9 +58,6 @@
 
 <h3 align="center">Contact :speech_balloon:</h3>
 <div align="center">
-  <a href="[https://velog.io/@fltk1004]">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp 
-  </a>
   <a href="mailto:fltkfltk1004@naver.com">
     <img
       src="https://img.shields.io/badge/fltkfltk1004@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
