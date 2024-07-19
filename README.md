@@ -42,7 +42,7 @@
   [![GitHub](https://img.shields.io/badge/Hackathon-pink?logo=github)](https://github.com/2023-Busan-Hackathon)
 
   :pencil2: 2024 2월 WeatherRecommendApp : 기온별 옷차림 추천 어플리케이션
-  [![GitHub](https://img.shields.io/badge/Hackathon-skyblue?logo=github)](https://github.com/SUSC-KR/SwiftUI-WeatherRecommendApp)
+  [![GitHub](https://img.shields.io/badge/WeatherRecommendApp-skyblue?logo=github)](https://github.com/SUSC-KR/SwiftUI-WeatherRecommendApp)
 
   :pencil2: 2024 6월 Carbon-Free : 디지털 탄소배출량 측정/예측/개선 웹서비스
   [![GitHub](https://img.shields.io/badge/CarbonFree-green?logo=github)](https://github.com/Carbon6-Free)
