@@ -8,8 +8,11 @@
  
   ![Syeony's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeony&show_icons=true&theme=dracula) <!-- radical -->
 
+<!--
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeony&layout=compact)
   
+-->
 
 </div>
 
