@@ -4,9 +4,9 @@
 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E9B8F7B1&random=false&width=440&height=60&lines=Welcome+to+Syeony+Github!)](https://git.io/typing-svg)
-
  
   ![Syeony's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeony&show_icons=true&theme=dracula) <!-- radical -->
+![image](https://github.com/user-attachments/assets/d49865be-0517-489d-8c08-9ffaf2c548d2)
 
 <!--
 
