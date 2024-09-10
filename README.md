@@ -1,11 +1,14 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=fdeaf0&fontColor=000000&text=syeony&animation=twinkling)
-
-
+  
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E9B8F7B1&random=false&width=440&height=60&lines=Welcome+to+Syeony+Github!)](https://git.io/typing-svg)
- 
+  
   ![Syeony's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeony&show_icons=true&theme=dracula) <!-- radical -->
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fltk1004)](https://solved.ac/fltk1004/)
+
 ![image](https://github.com/user-attachments/assets/d49865be-0517-489d-8c08-9ffaf2c548d2)
 
 <!--
