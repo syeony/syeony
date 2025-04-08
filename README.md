@@ -22,7 +22,7 @@
 </div>
 
 
-<h3 align="center">:hammer: Tech Stack :wrench:</h3>
+<h3 align="center">:hammer: Programming Language :wrench:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=#A8B9CC" /> &nbsp
   <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" /> &nbsp
