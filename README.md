@@ -48,8 +48,9 @@
 |2022.08|📖 [**clae-project**](https://github.com/syeony/clae-project)|블록체인 기반 수강권 거래 플랫폼|
 |2023.03|🌹 [**Disorder-Rose**](https://github.com/orgs/Disorder-ROSE)|장애인을 위한 과자봉지 식별 어플리케이션|
 |2023.09|🍲 [**모먹을까?**](https://github.com/2023-Busan-Hackathon)|맞벌이 자녀를 위한 AI 기반 음식 레시피 추천 서비스 (GDSC 해커톤)|
-|2024.02|☁️ [**WeatherRecommendApp**](https://github.com/SUSC-KR/SwiftUI-WeatherRecommendApp)|기온별 옷차림 추천 어플리케이션|
+|2024.02|☁️ [**WeatherRecommendApp**](https://github.com/SUSC-KR/SwiftUI-WeatherRecommendApp)|기온별 옷차림 추천 어플리케이션 (개인 프로젝트)|
 |2024.06|🌏 [**Carbon-Free**](https://github.com/Carbon6-Free)|디지털 탄소배출량 측정/예측/개선 웹서비스|
+|2024.12|📑 [**U-Paper**](https://github.com/U-paper)|논문 추천 웹서비스|
 
 </div>
 
