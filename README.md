@@ -39,6 +39,7 @@
 |------|---|---|
 |2023.06|🥇 SW 중심대학 DevDay 경진대회 대상|📆 [**Smart Kalendar**](https://github.com/SmartKalendar)|
 |2025.09|신한은행 해커톤 대상|[**캠펑! 우리학교 지도기반 커뮤니티**](https://github.com/parkdu7/campung)|
+|2025.11|삼성청년SW아카데미 자율프로젝트 우수상|[**GUI기반 원클릭 배포 자동화 시스템**](https://github.com/Arfni)|
 </div>
 
 <h3 align="center"> 💻 Project 💻 </h3>
