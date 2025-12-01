@@ -35,12 +35,12 @@
 <h3 align="center"> 🏆 Award 🏆 </h3>
 <div align="center">
 
-|기간|수상명|프로젝트명|
-|------|---|---|
-|2023.06|🥇 SW 중심대학 DevDay 경진대회 대상|[**스마트캘린더 - 녹음기반 일정등록 앱**](https://github.com/SmartKalendar)|
-|2025.08|신한은행 해커톤 대상|[**CAMPUNG! - 우리학교 지도기반 커뮤니티**](https://github.com/parkdu7/campung)|
-|2025.09|삼성청년SW아카데미 특화프로젝트 우수상|[**RSP - 빅데이터 추천 & AI 기반 문헌 탐색 서비스**](https://github.com/syeony/Research-SCI-Paper)|
-|2025.11|삼성청년SW아카데미 자율프로젝트 우수상|[**Arfni - GUI기반 원클릭 배포 자동화 시스템**](https://github.com/Arfni)|
+|기간|수상명|기관|프로젝트명|
+|------|---|---|--|
+|2023.06|SW 중심대학 DevDay 경진대회 대상|소프트웨어혁신센터|[**스마트캘린더 - 녹음기반 일정등록 앱**](https://github.com/SmartKalendar)|
+|2025.08|신한은행 해커톤 대상|주식회사신한은행|[**CAMPUNG! - 우리학교 지도기반 커뮤니티**](https://github.com/parkdu7/campung)|
+|2025.09|삼성청년SW아카데미 특화프로젝트 우수상|주식회사삼성전자|[**RSP - 빅데이터 추천 & AI 기반 문헌 탐색 서비스**](https://github.com/syeony/Research-SCI-Paper)|
+|2025.11|삼성청년SW아카데미 자율프로젝트 우수상|주식회사삼성전자|[**Arfni - GUI기반 원클릭 배포 자동화 시스템**](https://github.com/Arfni)|
 </div>
 
 <h3 align="center"> 💻 Project 💻 </h3>
