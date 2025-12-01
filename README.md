@@ -37,9 +37,10 @@
 
 |기간|수상명|프로젝트명|
 |------|---|---|
-|2023.06|🥇 SW 중심대학 DevDay 경진대회 대상|📆 [**Smart Kalendar**](https://github.com/SmartKalendar)|
-|2025.09|신한은행 해커톤 대상|[**캠펑! 우리학교 지도기반 커뮤니티**](https://github.com/parkdu7/campung)|
-|2025.11|삼성청년SW아카데미 자율프로젝트 우수상|[**GUI기반 원클릭 배포 자동화 시스템**](https://github.com/Arfni)|
+|2023.06|🥇 SW 중심대학 DevDay 경진대회 대상|[**스마트캘린더 - 녹음기반 일정등록 앱**](https://github.com/SmartKalendar)|
+|2025.08|신한은행 해커톤 대상|[**CAMPUNG! - 우리학교 지도기반 커뮤니티**](https://github.com/parkdu7/campung)|
+|2025.09|삼성청년SW아카데미 특화프로젝트 우수상|[**RSP - 빅데이터 추천 & AI 기반 문헌 탐색 서비스**](https://github.com/syeony/Research-SCI-Paper)|
+|2025.11|삼성청년SW아카데미 자율프로젝트 우수상|[**Arfni - GUI기반 원클릭 배포 자동화 시스템**](https://github.com/Arfni)|
 </div>
 
 <h3 align="center"> 💻 Project 💻 </h3>
@@ -47,12 +48,13 @@
 
 |기간|프로젝트명|설명|
 |------|---|---|
-|2022.08|📖 [**clae-project**](https://github.com/syeony/clae-project)|블록체인 기반 수강권 거래 플랫폼|
-|2023.03|🌹 [**Disorder-Rose**](https://github.com/orgs/Disorder-ROSE)|장애인을 위한 과자봉지 식별 어플리케이션|
-|2023.09|🍲 [**모먹을까?**](https://github.com/2023-Busan-Hackathon)|맞벌이 자녀를 위한 AI 기반 음식 레시피 추천 서비스 (GDSC 해커톤)|
-|2024.02|☁️ [**WeatherRecommendApp**](https://github.com/SUSC-KR/SwiftUI-WeatherRecommendApp)|기온별 옷차림 추천 어플리케이션 (개인 토이프로젝트)|
-|2024.06|🌏 [**Carbon-Free**](https://github.com/Carbon6-Free)|디지털 탄소배출량 측정/예측/개선 웹서비스|
-|2024.12|📑 [**U-Paper**](https://github.com/U-paper)|논문 추천 웹서비스|
+|2022.08|[**clae-project**](https://github.com/syeony/clae-project)|블록체인 기반 수강권 거래 플랫폼|
+|2023.03|[**Disorder-Rose**](https://github.com/orgs/Disorder-ROSE)|장애인을 위한 과자봉지 식별 어플리케이션|
+|2023.09|[**모먹을까?**](https://github.com/2023-Busan-Hackathon)|맞벌이 자녀를 위한 AI 기반 음식 레시피 추천 서비스 (GDSC 해커톤)|
+|2024.02|[**WeatherRecommendApp**](https://github.com/SUSC-KR/SwiftUI-WeatherRecommendApp)|기온별 옷차림 추천 어플리케이션 (개인 토이프로젝트)|
+|2024.06|[**Carbon-Free**](https://github.com/Carbon6-Free)|디지털 탄소배출량 측정/예측/개선 웹서비스|
+|2024.12|[**U-Paper**](https://github.com/U-paper)|논문 추천 웹서비스|
+|2025.08|[**PetPlace**](https://github.com/syeony/PetPlace)|우리동네 반려동 커뮤니티 앱|
 
 </div>
 
