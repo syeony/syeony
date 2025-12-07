@@ -55,6 +55,7 @@
 |2024.06|[**Carbon-Free**](https://github.com/Carbon6-Free)|디지털 탄소배출량 측정/예측/개선 웹서비스|
 |2024.12|[**U-Paper**](https://github.com/U-paper)|논문 추천 웹서비스|
 |2025.08|[**PetPlace**](https://github.com/syeony/PetPlace)|우리동네 반려동 커뮤니티 앱|
+|2025.11|[**SSAFY Market**](https://github.com/ssafymarket)|싸피 중고물품거래 플랫폼|
 
 </div>
 
