@@ -21,17 +21,6 @@
 
 </div>
 
-
-<h3 align="center">:hammer: Programming Language :wrench:</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=#A8B9CC" /> &nbsp
-  <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" /> &nbsp
-  <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=Python&logoColor=#3776AB" /> &nbsp
-  <img src="https://img.shields.io/badge/Swift-20232a.svg?style=for-the-badge&logo=Swift&logoColor=#F05138" /> &nbsp
-  <img src="https://img.shields.io/badge/Dart-20232a.svg?style=for-the-badge&logo=Dart&logoColor=#0175C2" /> &nbsp
-  <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=OpenJDK&logoColor=white"/> &nbsp
-</div>
-
 <h3 align="center"> 🏆 Award 🏆 </h3>
 <div align="center">
 
@@ -59,13 +48,21 @@
 
 </div>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">💻 Skills & Learning 💻</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Algorithm-FFCA1A?style=for-the-badge&logo=Python&logoColor=gray" />&nbsp
-  <img src="https://img.shields.io/badge/iOS-FF66AA?style=for-the-badge&logo=iOS&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/Java-ED8936.svg?style=for-the-badge&logo=OpenJDK&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" /> &nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" /> &nbsp
+  <img src="https://img.shields.io/badge/React_Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" /> &nbsp
+  <img src="https://img.shields.io/badge/Swift-FA7343.svg?style=for-the-badge&logo=Swift&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/Flutter-3880FF?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-FF66AA?style=for-the-badge&logo=iOS&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/Algorithm-FFCA1A?style=for-the-badge&logo=Python&logoColor=gray" />
 </div>
 
 <h3 align="center">Contact :speech_balloon:</h3>
