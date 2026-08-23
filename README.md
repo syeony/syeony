@@ -6,7 +6,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E9B8F7B1&random=false&width=440&height=60&lines=Welcome+to+Syeony+Github!)](https://git.io/typing-svg)
   
-  ![Syeony's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeony&show_icons=true&theme=dracula) 
+  <!--![Syeony's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeony&show_icons=true&theme=dracula) -->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fltk1004)](https://solved.ac/fltk1004/) 
   [![Velog's GitHub stats](https://velog-github-badge.vercel.app/badge/fltk1004?thema=dark&posts=3)]([https://velog.io/@fltk1004](https://velog.io/@fltk1004/posts))
 
